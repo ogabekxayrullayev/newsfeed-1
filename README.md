@@ -1,3 +1,3 @@
 # newsfeed
 
-**Qalin Yozuv**
+**This site is a cloned version of the new one**
